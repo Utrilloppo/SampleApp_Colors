@@ -1,7 +1,5 @@
 # provider_shopper
-
-A new Flutter application.
-
+I copied Flutter official code.
 ## Getting Started
 
 This project is a starting point for a Flutter application.
